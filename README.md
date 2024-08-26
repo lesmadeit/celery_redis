@@ -1,0 +1,1 @@
+This is an application of celery on a Django project using Redis
